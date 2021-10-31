@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635445388 source:c:\informatyka\wstep programowania\wyklady\23.10.2021\praca domowa\cw04\main.c
+	<stdio.h>
+	<stdlib.h>
+
